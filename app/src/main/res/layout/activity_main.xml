@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="5dp"
+            android:layout_marginHorizontal="5dp">
+
+            <ImageView
+                android:id="@+id/tiles_00"
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/white_square" />
+
+            <ImageView
+                android:id="@+id/tiles_01"
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/white_square" />
+
+            <ImageView
+                android:id="@+id/tiles_02"
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/white_square" />
+
+            <ImageView
+                android:id="@+id/tiles_03"
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/white_square" />
+
+            <ImageView
+                android:id="@+id/tiles_04"
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/white_square" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginHorizontal="5dp">
+
+            <ImageView
+                android:id="@+id/tiles_10"
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/white_square" />
+
+            <ImageView
+                android:id="@+id/tiles_11"
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/white_square" />
+
+            <ImageView
+                android:id="@+id/tiles_12"
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/white_square" />
+
+            <ImageView
+                android:id="@+id/tiles_13"
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/white_square" />
+
+            <ImageView
+                android:id="@+id/tiles_14"
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/white_square" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginHorizontal="5dp">
+
+            <ImageView
+                android:id="@+id/tiles_20"
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/white_square" />
+
+            <ImageView
+                android:id="@+id/tiles_21"
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/white_square" />
+
+            <ImageView
+                android:id="@+id/tiles_22"
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/white_square" />
+
+            <ImageView
+                android:id="@+id/tiles_23"
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/white_square" />
+
+            <ImageView
+                android:id="@+id/tiles_24"
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/white_square" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginHorizontal="5dp">
+
+            <ImageView
+                android:id="@+id/tiles_30"
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/white_square" />
+
+            <ImageView
+                android:id="@+id/tiles_31"
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/white_square" />
+
+            <ImageView
+                android:id="@+id/tiles_32"
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/white_square" />
+
+            <ImageView
+                android:id="@+id/tiles_33"
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/white_square" />
+
+            <ImageView
+                android:id="@+id/tiles_34"
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/white_square" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginHorizontal="5dp">
+
+            <ImageView
+                android:id="@+id/tiles_40"
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/white_square" />
+
+            <ImageView
+                android:id="@+id/tiles_41"
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/white_square" />
+
+            <ImageView
+                android:id="@+id/tiles_42"
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/white_square" />
+
+            <ImageView
+                android:id="@+id/tiles_43"
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/white_square" />
+
+            <ImageView
+                android:id="@+id/tiles_44"
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/white_square" />
+        </TableRow>
+
+    </TableLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/btnUp"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.498"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.304"
+            app:srcCompat="@drawable/up" />
+
+        <ImageView
+            android:id="@+id/btnLeft"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_weight="1"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.289"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.56"
+            app:srcCompat="@drawable/left" />
+
+        <ImageView
+            android:id="@+id/btnRight"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_weight="1"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.704"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.56"
+            app:srcCompat="@drawable/right" />
+
+        <ImageView
+            android:id="@+id/btnDown"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.498"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.821"
+            app:srcCompat="@drawable/down" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</LinearLayout>
